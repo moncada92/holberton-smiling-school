@@ -1,0 +1,72 @@
+:root {
+  --color-primary: #C271FF;
+  --color-primary-dark: #9b55d1;
+}
+
+*{
+  font-family: "Source Sans Pro";
+}
+
+button:hover,
+button:active {
+  opacity: 0.9;
+}
+
+header{
+  background: url('./images/pic_1.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.bg-light{
+  background: none !important;
+}
+.nav-link{
+  font-size: 12px;
+}
+.navbar-toggler, .navbar-toggler:focus{
+  border: none;
+  outline: none;
+}
+.title{
+  margin-top: 10rem;
+  font-size: 120px;
+}
+
+.btn-primary{
+  background: var(--color-primary);
+  border-radius: 22px;
+  border-color: var(--color-primary);
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  font-size: 14px;
+}
+.btn-primary:hover{
+  background: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+}
+.text-primary{
+  color: var(--color-primary) !important;
+}
+.last-content{
+  margin-top: 10rem;
+  margin-bottom: 6rem;
+}
+@media screen and (max-width: 767px) {
+  .navbar-brand{
+    margin: 0.7rem auto 0 auto;
+  }
+  .navbar-brand img{
+    display: block;
+    margin: 0 auto !important;
+  }
+  .title{
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .title{
+    font-size: 3rem;
+  }
+}
+
