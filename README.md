@@ -7,19 +7,19 @@ the goal with this project it was the developer website used bootstrap and use s
 
 ## Home page
 
-<img src="https://github.com/moncada92/holberton-headphones/blob/main/img/ss_home_page.png"
+<img src="https://github.com/moncada92/holberton-headphones/blob/main/images/ss_home_page.png"
      alt="shell_holberton_cali"
      style="display:block; margin: 10px auto; width: 100%;max-width: 700px">
 
 ## Pricing
 
-<img src="https://github.com/moncada92/holberton-headphones/blob/main/img/ss_pricing.png"
+<img src="https://github.com/moncada92/holberton-headphones/blob/main/images/ss_pricing.png"
      alt="shell_holberton_cali"
      style="display:block; margin: 10px auto; width: 100%;max-width: 700px">
 
 ## Courses
 
-<img src="https://github.com/moncada92/holberton-headphones/blob/main/img/ss_courses.png"
+<img src="https://github.com/moncada92/holberton-headphones/blob/main/images/ss_courses.png"
      alt="shell_holberton_cali"
      style="display:block; margin: 10px auto; width: 100%;max-width: 700px">
 
